@@ -11,7 +11,8 @@ public class q4 {
         int b = in.nextInt();
         System.out.println("HCF: " + HCF(a, b));
         System.out.println("LCM: " + LCM(a, b));
-        in.close();    }
+        in.close();
+    }
     
     // static int HCF(int a, int b) {
     //     int hcf = 1;
