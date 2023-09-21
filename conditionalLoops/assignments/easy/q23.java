@@ -1,5 +1,5 @@
 // q23: Input a number and print all the factors of that number (use loops).
-package conditionalLoops.assignments;
+package conditionalLoops.assignments.easy;
 
 import java.util.ArrayList;
 import java.util.Scanner;

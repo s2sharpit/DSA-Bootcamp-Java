@@ -1,5 +1,5 @@
 // q8_13: Perimeter Of Circle, Equilateral Triangle, Parallelogram, Rectangle, Square, Rhombus
-package conditionalLoops.assignments;
+package conditionalLoops.assignments.easy;
 
 import java.util.Scanner;
 

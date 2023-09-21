@@ -1,4 +1,4 @@
-package conditionalLoops.assignments;
+package conditionalLoops.assignments.easy;
 // https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 import java.util.Scanner;
 

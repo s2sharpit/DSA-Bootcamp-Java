@@ -1,5 +1,5 @@
 // q1_7: Area Of Circle, Triangle, Rectangle, Isosceles Triangle, Parallelogram, Rhombus, Equilateral Triangle
-package conditionalLoops.assignments;
+package conditionalLoops.assignments.easy;
 
 import java.util.Scanner;
 

@@ -17,6 +17,7 @@ public class App {
             // find the middle element
             // int mid = (start + end) / 2; // might be possible that (start + end) exceeds the range of integer in java
             int mid = start + (end - start) / 2;
+            // int mid = start + (end - start) >> 1;
 
             if (target < arr[mid]) {
                 end = mid - 1;

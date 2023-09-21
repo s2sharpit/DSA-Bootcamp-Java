@@ -1,5 +1,5 @@
 // Curved Surface Area Of Cylinder, Total Surface Area Of Cylinder, Surface Area Of Cube
-package conditionalLoops.assignments;
+package conditionalLoops.assignments.easy;
 
 import java.util.Scanner;
 

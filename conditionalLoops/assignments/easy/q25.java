@@ -1,5 +1,5 @@
 // q25: Take integer inputs till the user enters 0 and print the largest number from all.
-package conditionalLoops.assignments;
+package conditionalLoops.assignments.easy;
 
 import java.util.Scanner;
 

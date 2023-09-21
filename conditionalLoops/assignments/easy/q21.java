@@ -1,5 +1,5 @@
 // Fibonacci Series In Java Programs
-package conditionalLoops.assignments;
+package conditionalLoops.assignments.easy;
 
 import java.util.*;
 

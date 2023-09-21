@@ -1,5 +1,5 @@
 // q26: Addition Of Two Numbers
-package conditionalLoops.assignments;
+package conditionalLoops.assignments.easy;
 
 import java.util.Scanner;
 

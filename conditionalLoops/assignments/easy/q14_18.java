@@ -1,5 +1,5 @@
 // Volume Of Cone, Prism, Cylinder, Sphere, Pyramid
-package conditionalLoops.assignments;
+package conditionalLoops.assignments.easy;
 
 import java.util.Scanner;
 
