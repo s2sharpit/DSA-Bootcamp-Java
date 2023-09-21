@@ -1,4 +1,4 @@
-package linearSearch;
+package searching.linearSearch;
 
 public class App {
     public static void main(String[] args) {

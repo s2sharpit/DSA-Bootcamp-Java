@@ -1,4 +1,4 @@
-package linearSearch.questions;
+package searching.linearSearch.questions;
 
 public class findMin {
     private static int ans;
